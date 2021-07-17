@@ -1,14 +1,14 @@
 {
-  "name": "create-umi",
+  "name": "create-umi-for-antd-pro-v4",
   "version": "0.27.0",
   "description": "Creates a UmiJS application using the command line.",
-  "homepage": "https://github.com/umijs/create-umi",
+  "homepage": "https://github.com/blueju/create-umi-for-antd-pro-v4",
   "bugs": {
     "url": "https://github.com/umijs/create-umi/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/umijs/create-umi"
+    "url": "https://github.com/blueju/create-umi-for-antd-pro-v4"
   },
   "license": "MIT",
   "files": [
